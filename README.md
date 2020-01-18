@@ -17,19 +17,38 @@ Fork Repo and open in visual studio. Right click solution and restore Nuget pack
 
 ## Pre-Release History
 
-Main Program | WebP Converter | Zipper
+###### Main Program : 
 
----------------------|--------------------------|-----------
+| V0.6                         | V0.5                | V0.0.1       |
+| :--------------------------- | :------------------ | ------------ |
+| Updated names for clarity    | Cleaned Code        | First Update |
+| Added init method to IPlugin | Added basic updater |              |
+| Localization testing         |                     |              |
 
-* 0.6 | Coming Soon | Coming Soon
-  * Updated names in the holder class for clarity | | |
-  * added an init method to IPlugin so if  your plugin needs to do something before it's shown it can |  | |
-  * Added some localization for testing | | |
-* 0.5 | | |
-  * Cleaned code. | | |
-  * Added basic code for an updater | | |
-* 0.0.1 | | |
-  * Work in progress | | |
+------
+###### Image Converter : 
+
+| V0.1         |
+| :----------- |
+| Coming Soon! |
+
+------
+###### Zipper : 
+
+| V0.1         |
+| :----------- |
+| Coming Soon! |
+
+
+* 0.6 
+  * Updated names in the holder class for clarity 
+  * added an init method to IPlugin so if  your plugin needs to do something before it's shown it can 
+  * Added some localization for testing 
+* 0.5 
+  * Cleaned code. 
+  * Added basic code for an updater 
+* 0.0.1
+  * Work in progress
 
 ## Meta
 
