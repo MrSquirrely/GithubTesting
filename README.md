@@ -1,3 +1,6 @@
+# This Repo is my testing repo.
+# Nothing here means anything
+
 # Squirrely Utilities
 > Simple extendable utilities for everyday life
 
